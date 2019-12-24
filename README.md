@@ -1,2 +1,2 @@
 # helloWorld
-A very basic hello world solidity repository
+A very basic hello world Ethereum/Solidity/DApp 
